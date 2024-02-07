@@ -1,0 +1,25 @@
+body{
+  background-color: rgb(255, 255, 255);
+  color: rgb(9, 8, 8);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button{
+  border-style: none;
+  padding: 1.5vh;
+  cursor: pointer;
+  margin: 1vh;
+  background-color: rgb(239, 239, 238);
+}
+
+.container{
+  text-align: center;
+}
+
+input{
+  border-style: none;
+  border: 1px solid black;
+  padding: 1.5vh;
+  outline-style: none;
+  width:25vw;
+}
